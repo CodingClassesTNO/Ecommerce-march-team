@@ -7,6 +7,7 @@ Welcome to **Coders Garment**
 ## Features
 
 ## About us
+"Welcome to Coders garments, where style meets comfort and sustainability. We are a fashion brand committed to offering high-quality garments that make you feel confident, comfortable, and stylish – all while being mindful of the planet."
 
 ### Why Choose Us?
 - **Premium Quality Materials: We use only the finest fabrics for comfort, durability, and long-lasting wear.**
