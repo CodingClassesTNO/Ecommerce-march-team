@@ -27,3 +27,21 @@ Welcome to **Coders Garment**
 - **Trusted by Thousands: Join our happy customers who love our stylish, comfortable clothing.**
 
 ## Website: [Visit site](https://codingclassestno.github.io/Ecommerce-march-team/)
+
+## Screenshots:
+
+![image](https://github.com/user-attachments/assets/15317dcd-8590-4ab2-88fc-3bc41482bcdc)
+
+![image](https://github.com/user-attachments/assets/4ed5c9fd-e841-4238-bb5c-8dac073b31e9)
+
+## Team members and our collaborators 
+- Areeba
+- Dennis
+- Lima
+- Maryam
+- Nafla
+- Rekha
+- Sana
+- Solomun
+- Toby
+
